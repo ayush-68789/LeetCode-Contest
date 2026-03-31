@@ -1,5 +1,3 @@
-package Easy;
-
 public class Maximize_Expression_of3Elements {
     public static void main(String[] args) {
 // You are given an integer array nums.

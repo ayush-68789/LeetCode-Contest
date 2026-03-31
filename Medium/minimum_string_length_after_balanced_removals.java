@@ -1,5 +1,3 @@
-package Medium;
-
 public class minimum_string_length_after_balanced_removals {
 //     You are given a string s consisting only of the characters 'a' and 'b'.
 
